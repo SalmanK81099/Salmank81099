@@ -5,9 +5,6 @@
 
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +13,10 @@
 </p>
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=SalmanK81099&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanK81099&layout=compact&langs_count=5)
+
+### Streak:-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SalmanK81099&theme=earth&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 <!--
