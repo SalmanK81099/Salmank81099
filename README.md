@@ -15,7 +15,7 @@
 <a href="https://instagram.com/salmanr2d2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
 </p>
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=SalmanK81099&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanK81099&layout=compact&langs_count=5)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=SalmanK81099&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanK81099&layout=compact&langs_count=5)
 
 
 <!--
