@@ -12,7 +12,7 @@ I have always been fascinated by computers and technology, and I have been an en
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [salmanyasinkhan81099@gmail.com](mailto:salmanyasinkhan81099@gmail.com)
 * 🚀  I'm currently working on [Easy E-Money](http://www.easyemoney.co.uk/)
-* 🧠  I'm learning React Native (Expo)
+* 🧠  I'm learning Native iOS and Android app development to make my own components for React Native.
 * 🤝  I'm open to collaborating on A Visual Builder for MERN Stack with Github integrations, and CI/CD pipelining.
 
 ### Skills
