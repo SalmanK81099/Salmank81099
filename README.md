@@ -7,14 +7,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer
 --------------------
 
-I have always been fascinated by computers and technology, and I have been an enthusiast since childhood. When I started high school, I decided to take my interest in computers to the next level and started learning to code. My first programming language was C++, and I quickly became hooked on the satisfaction of creating my own programs and solving problems through code. Since then, I have explored a variety of programming languages and technologies, including Android development, Visual Basic, and web development with WordPress. However, I wanted to take my skills to the next level and create more advanced projects, so I began working with the MERN stack. I have been using the MERN stack for over three years now, and I enjoy the challenge of building full-stack web applications. Lately, I've honed my skills in Typescript and React Native, particularly with Expo. Making code better isn't just a hobby—it's my calling. I can't stand seeing subpar code, and I take pride in optimizing and refining every line I come across. Coding isn't just a passion; it's a commitment to excellence for me.
+I have always been fascinated by computers and technology, and I have been an enthusiast since childhood. When I started high school, I decided to take my interest in computers to the next level and started learning to code. My first programming language was C++, and I quickly became hooked on the satisfaction of creating my programs and solving problems through code. Since then, I have explored a variety of programming languages and technologies, including Android development, Visual Basic, and web development with WordPress. However, I wanted to take my skills to the next level and create more advanced projects, so I began working with the MERN stack. I have been using the MERN stack for over four years now, and I enjoy the challenge of building full-stack web applications. Lately, I've honed my skills in Typescript and React Native, particularly with Expo. Making code better isn't just a hobby—it's my calling. I can't stand seeing subpar code, and I take pride in optimizing and refining every line I come across. Coding isn't just a passion; it's a commitment to excellence for me.
 
 Plus, there's my startup, anemoia.dev. At 24, I'm just getting started and I'm always keen to learn more. Let's team up and make something awesome! 🚀
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [salmanyasinkhan81099@gmail.com](mailto:salmanyasinkhan81099@gmail.com)
 * 🚀  I'm currently working on [Stable](https://www.stable-app.com)
-* 🧠  I'm learning Native iOS and Android app development to make my own Native modules for React Native.
+* 🧠  I'm learning Native iOS and Android app development to make Native modules for React Native.
 * 🤝  I'm open to collaborating on A Visual Builder for MERN Stack with GitHub integrations, and CI/CD pipelining.
 
 ### Skills
