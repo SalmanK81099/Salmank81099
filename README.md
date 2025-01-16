@@ -64,7 +64,7 @@ Plus, there's my startup, anemoia.dev. At 24, I'm just getting started and I'm a
 
 <a href="http://www.github.com/salmank81099"><img src="https://github-readme-stats.vercel.app/api?username=salmank81099&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="salmank81099's GitHub stats" /></a>
 
-<a href="http://www.github.com/salmank81099"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salmank81099&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/salmank81099"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=salmank81099&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/salmank81099"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=salmank81099&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
