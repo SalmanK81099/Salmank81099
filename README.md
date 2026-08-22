@@ -3,13 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:a855f7&height=200&section=header&text=Salman%20Khan&fontSize=64&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20AI%20Engineering&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Salman Khan" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full-stack+and+mobile+engineer;TypeScript%2C+React%2C+Next.js%2C+React+Native;AI+agents%2C+MCP+servers%2C+LLM+tooling;Founder+at+anemoia.dev" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full-stack+and+mobile+engineer;TypeScript%2C+React%2C+Next.js%2C+React+Native;AI+agents%2C+MCP+servers%2C+LLM+tooling;Native+modules+and+cross-platform+apps" alt="What I do" />
 </a>
 
 <br/>
 
 <a href="https://github.com/salmank81099"><img src="https://komarev.com/ghpvc/?username=salmank81099&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://anemoia.dev"><img src="https://img.shields.io/badge/anemoia.dev-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="anemoia.dev" /></a>
 <a href="https://www.linkedin.com/in/salman-khan-986118226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:salmanyasinkhan81099@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/SalmanYasin8109"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -22,7 +21,7 @@
 
 ```ts
 const salman = {
-  role:      "Full-Stack & Mobile Engineer · Founder @ anemoia.dev",
+  role:      "Full-Stack & Mobile Engineer",
   location:  "Pakistan 🇵🇰  ·  remote-first",
   stack:     ["TypeScript", "React", "Next.js", "React Native + Expo", "Node.js", "Python"],
   focus:     ["AI agents & LLM tooling", "cross-platform apps", "native modules", "DX"],
@@ -45,7 +44,6 @@ time.
 
 | | Project | What it is |
 |---|---|---|
-| 🌬️ | **anemoia.dev** | My studio. Product engineering for web, mobile and AI. |
 | 🤖 | **AI agent tooling** | MCP servers, custom agents, LLM workflows and RAG pipelines. |
 | 📱 | **React Native at depth** | Native modules, Fabric and TurboModules, profiling and perf work. |
 | 🧩 | **Visual builder (idea stage)** | Full-stack scaffolding with Git integration and CI/CD. Collaborators welcome. |
@@ -122,7 +120,7 @@ anything React Native, send me a note.
 <div align="center">
 
 <a href="mailto:salmanyasinkhan81099@gmail.com"><img src="https://img.shields.io/badge/Say_hello-0891b2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email me" /></a>
-<a href="https://anemoia.dev"><img src="https://img.shields.io/badge/Work_with_anemoia-6366f1?style=for-the-badge&logo=rocket&logoColor=white" alt="anemoia.dev" /></a>
+<a href="https://github.com/salmank81099?tab=repositories"><img src="https://img.shields.io/badge/Browse_my_work-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 <br/><br/>
 
