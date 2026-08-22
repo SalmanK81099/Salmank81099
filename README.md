@@ -1,75 +1,131 @@
+<div align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salman Khan
-===================================================================================================================================
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:a855f7&height=200&section=header&text=Salman%20Khan&fontSize=64&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20AI%20Engineering&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Salman Khan" />
 
-### ![](https://komarev.com/ghpvc/?username=salmank81099&color=blue)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full-stack+and+mobile+engineer;TypeScript%2C+React%2C+Next.js%2C+React+Native;AI+agents%2C+MCP+servers%2C+LLM+tooling;Founder+at+anemoia.dev" alt="What I do" />
+</a>
 
-MERN Stack Developer
---------------------
+<br/>
 
-I have always been fascinated by computers and technology, and I have been an enthusiast since childhood. When I started high school, I decided to take my interest in computers to the next level and started learning to code. My first programming language was C++, and I quickly became hooked on the satisfaction of creating my programs and solving problems through code. Since then, I have explored a variety of programming languages and technologies, including Android development, Visual Basic, and web development with WordPress. However, I wanted to take my skills to the next level and create more advanced projects, so I began working with the MERN stack. I have been using the MERN stack for over four years now, and I enjoy the challenge of building full-stack web applications. Lately, I've honed my skills in Typescript and React Native, particularly with Expo. Making code better isn't just a hobby—it's my calling. I can't stand seeing subpar code, and I take pride in optimizing and refining every line I come across. Coding isn't just a passion; it's a commitment to excellence for me.
+<a href="https://github.com/salmank81099"><img src="https://komarev.com/ghpvc/?username=salmank81099&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://anemoia.dev"><img src="https://img.shields.io/badge/anemoia.dev-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="anemoia.dev" /></a>
+<a href="https://www.linkedin.com/in/salman-khan-986118226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:salmanyasinkhan81099@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/SalmanYasin8109"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
-Plus, there's my startup, anemoia.dev. At 24, I'm just getting started and I'm always keen to learn more. Let's team up and make something awesome! 🚀
+</div>
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [salmanyasinkhan81099@gmail.com](mailto:salmanyasinkhan81099@gmail.com)
-* 🚀  I'm currently working on [Stable](https://www.stable-app.com)
-* 🧠  I'm learning Native iOS and Android app development to make Native modules for React Native.
-* 🤝  I'm open to collaborating on A Visual Builder for MERN Stack with GitHub integrations, and CI/CD pipelining.
+---
 
-### Skills
+## `whoami`
 
+```ts
+const salman = {
+  role:      "Full-Stack & Mobile Engineer · Founder @ anemoia.dev",
+  location:  "Pakistan 🇵🇰  ·  remote-first",
+  stack:     ["TypeScript", "React", "Next.js", "React Native + Expo", "Node.js", "Python"],
+  focus:     ["AI agents & LLM tooling", "cross-platform apps", "native modules", "DX"],
+  learning:  ["Swift / SwiftUI", "Kotlin", "New Architecture internals (Fabric + TurboModules)"],
+  openTo:    ["contract work", "product partnerships", "open source"],
+} as const;
+```
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+I started on C++ in high school, took a long detour through VB, WordPress and Android, and landed on the
+web/mobile stack I still live in today. Most of my week is TypeScript now: React and Next.js on the web,
+React Native and Expo on mobile, plus a growing amount of Python and LLM plumbing.
 
+What I care about is the boring part: types that hold, renders that don't thrash, builds that survive 2am,
+and code the next person can read without asking me questions. Refactoring bad code is my idea of a good
+time.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/salmank81099" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/salman-khan-986118226" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/salman-khan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SalmanYasin8109" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## Currently building
 
-### Badges
+| | Project | What it is |
+|---|---|---|
+| 🌬️ | **anemoia.dev** | My studio. Product engineering for web, mobile and AI. |
+| 🤖 | **AI agent tooling** | MCP servers, custom agents, LLM workflows and RAG pipelines. |
+| 📱 | **React Native at depth** | Native modules, Fabric and TurboModules, profiling and perf work. |
+| 🧩 | **Visual builder (idea stage)** | Full-stack scaffolding with Git integration and CI/CD. Collaborators welcome. |
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/salmank81099"><img src="https://github-readme-stats.vercel.app/api?username=salmank81099&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="salmank81099's GitHub stats" /></a>
+## Tech I reach for
 
-<a href="http://www.github.com/salmank81099"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=salmank81099&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
-<a href="http://www.github.com/salmank81099"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=salmank81099&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**Languages**
 
-<a href="https://github.com/salmank81099" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmank81099&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,swift,kotlin,php&theme=dark" alt="Languages" />
 
-<b>Top Repositories</b>
+**Frontend**
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,vite,svelte,figma&theme=dark" alt="Frontend" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,swift,kotlin,androidstudio,apple&theme=dark" alt="Mobile" />
+<br/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/EAS_Build-4630EB?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Reanimated-001A72?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/New_Architecture-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,postgres,mongodb,redis,supabase,firebase&theme=dark" alt="Backend" />
+
+**AI & LLM**
+
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP_Servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_%2B_Vector_DBs-4B32C3?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-6366f1?style=flat-square&logo=openai&logoColor=white" />
+
+**Infra & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,cloudflare,linux,git,bash,jest,pnpm&theme=dark" alt="Infra" />
+
+</div>
+
+---
+
+## By the numbers
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmank81099&theme=github_dark" width="93%" alt="Profile summary" />
+
+<img src="https://streak-stats.demolab.com/?user=salmank81099&theme=dark&hide_border=true&background=0D1117&stroke=0891b2&ring=0891b2&fire=a855f7&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" width="60%" alt="Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmank81099&theme=github_dark" height="200" alt="Top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salmank81099&theme=github_dark" height="200" alt="Top languages by commit" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salmank81099&theme=github_dark" height="200" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salmank81099&theme=github_dark&utcOffset=5" height="200" alt="Productive time" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmank81099&bg_color=0D1117&color=ffffff&line=0891b2&point=a855f7&area_color=0891b2&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph" />
+
+</div>
+
+---
+
+## Let's build something
+
+Available for contract work and product partnerships. If you're building developer tooling, AI agents, or
+anything React Native, send me a note.
+
+<div align="center">
+
+<a href="mailto:salmanyasinkhan81099@gmail.com"><img src="https://img.shields.io/badge/Say_hello-0891b2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email me" /></a>
+<a href="https://anemoia.dev"><img src="https://img.shields.io/badge/Work_with_anemoia-6366f1?style=for-the-badge&logo=rocket&logoColor=white" alt="anemoia.dev" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0891b2&height=120&section=footer" width="100%" alt="" />
+
+</div>
