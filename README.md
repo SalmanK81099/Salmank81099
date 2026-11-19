@@ -46,8 +46,6 @@ time.
 |---|---|---|
 | 🤖 | **AI agent tooling** | MCP servers, custom agents, LLM workflows and RAG pipelines. |
 | 📱 | **React Native at depth** | Native modules, Fabric and TurboModules, profiling and perf work. |
-| 🧩 | **Visual builder (idea stage)** | Full-stack scaffolding with Git integration and CI/CD. Collaborators welcome. |
-
 ---
 
 ## Tech I reach for
